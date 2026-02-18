@@ -1,0 +1,35 @@
+# Terms of Service
+
+### 1. Definitions
+*   **"SOFTWARE"** refers to the executable bot, application, or service instance provided by the Owners, including all its hosted functions and interactions via the Discord platform.
+*   **"OWNERS"** refers to the developers or entities responsible for the maintenance and hosting of the SOFTWARE.
+*   **"USER"** refers to any individual or entity that interacts with, installs, or utilizes the SOFTWARE.
+*   **"SERVICE"** refers to the act of hosting and providing the SOFTWARE for public or private use.
+
+### 2. Acceptance of Terms
+By adding the **SOFTWARE** to a server or using its commands, the USER agrees to these Terms and the [Discord Terms of Service](https://discord.com). If the USER does not agree, they must cease use of the **SOFTWARE** and remove it from their server immediately.
+
+### 3. Open Source License (GPL v3.0)
+The underlying source code of the **SOFTWARE** is licensed under the [GNU General Public License v3.0](https://www.gnu.org). While the code is open for modification and self-hosting, these Terms of Service specifically govern the USE of the specific **SOFTWARE** instance hosted and maintained by the OWNERS.
+
+### 4. Acceptable Use Policy
+The USER agrees not to use the **SOFTWARE** to:
+*   Violate any [Discord Community Guidelines](https://discord.com).
+*   Harass, spam, or distribute illegal content.
+*   Attempt to bypass technical limitations or exploit bugs within the **SOFTWARE**.
+*   Scrape or collect data from other USERS beyond what is strictly necessary for the **SOFTWARE**'s functionality.
+
+### 5. Intellectual Property & Trademarks
+The source code license (GPL v3.0) does not grant the USER rights to the **SOFTWARE**’s name, logo, or unique branding assets. USERS may not use these assets in a manner that implies an official partnership with or endorsement by the OWNERS.
+
+### 6. Disclaimer of Warranty
+**THE SOFTWARE IS PROVIDED "AS IS." THE OWNERS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE OWNERS DO NOT GUARANTEE THAT THE SOFTWARE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE.**
+
+### 7. Limitation of Liability
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNERS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING DATA LOSS, SERVER DISRUPTION, OR SERVICE OUTAGES) ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.**
+
+### 8. Termination
+The OWNERS reserve the right to terminate access or block specific USERS or servers from the **SOFTWARE** at their sole discretion, without notice, for conduct that violates these Terms or is otherwise harmful to the SERVICE.
+
+### 9. Privacy Policy
+Use of the **SOFTWARE** is also governed by our [Privacy Policy](INSERT_LINK_HERE), which outlines how USER data (such as Discord IDs and metadata) is handled.
