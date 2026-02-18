@@ -1,0 +1,37 @@
+# Privacy Policy
+
+**Last Updated:** 2026-02-18
+
+This Privacy Policy explains how we handle your data when you use our **SOFTWARE** (the bot/app). We are committed to transparency and comply with Canada’s *Personal Information Protection and Electronic Documents Act* (PIPEDA).
+
+### 1. Data We Collect
+To provide its service, the **SOFTWARE** may process the following information provided by Discord:
+*   **User Identifiers:** Discord User ID and Username.
+*   **Server Identifiers:** Discord Guild (Server) IDs and Channel IDs.
+*   **Interaction Data:** Commands used and any text/arguments provided to the SOFTWARE to execute those commands.
+*   **Usage Logs:** Timestamps of interactions for debugging and security purposes.
+
+### 2. Purpose of Collection
+We collect and use this data solely to:
+*   Operate and maintain the **SOFTWARE**'s functionality.
+*   Identify and fix technical bugs or security issues.
+*   Enforce our Terms of Service and prevent abuse.
+
+### 3. Data Storage & Security
+*   **Retention:** We only store personal data for as long as necessary to fulfill the purposes listed above. Usage logs are typically deleted after a period of **30 days**, unless an active user support request or security investigation requires further investigation and extended retention.
+*   **Safeguards:** We implement reasonable technical safeguards (such as encryption at rest and in transit) to protect your data from unauthorized access or disclosure.
+*   **Third Parties:** We **do not sell** your data. We do not share your data with third parties unless required by law or necessary for the hosting of the SOFTWARE (e.g., our database provider).
+
+### 4. Your Rights (PIPEDA Compliance)
+Under Canadian law, you have the following rights regarding your information:
+*   **Access:** You may request a copy of any personal data we have stored about you.
+*   **Correction/Deletion:** You may request that we update or delete your data at any time.
+*   **Withdrawal of Consent:** You may withdraw your consent by removing the **SOFTWARE** from your server or ceasing its use.
+
+### 5. Children’s Privacy
+The **SOFTWARE** is not intended for use by individuals under the age of 13. We do not knowingly collect data from children.
+
+### 6. Contact & Accountability
+For any privacy-related inquiries, data access requests, or to challenge our compliance with PIPEDA, please contact the **OWNERS** at:
+*   **Discord:** [Your Discord Tag/Support Server Link]
+*   **Email:** [Your Email Address]
